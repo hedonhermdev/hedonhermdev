@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Tirth Jain, a Computer Science undergrad studying in BITS Pilani, India. I like to write software that runs on servers. 
 
 <!--
 **hedonhermdev/hedonhermdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
