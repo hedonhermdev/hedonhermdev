@@ -19,3 +19,7 @@ I am Tirth Jain, a Computer Science undergrad studying in BITS Pilani, India. I 
 - [BPPC-Marketplace](https://github.com/hedonhermdev/BPPC-Marketplace): The code for the backend server for BITS Pilani's Marketplace app. 
 - [Pathways](https://github.com/megabit-labs/pathways): A new way of writing tutorials built with a cool tech stack. 
 - [Mythr](https://github.com/hedonhermdev/mythr-connect): My first Django project. 
+
+**💻 If you're interested in my efforts towards learning Rust**:
+- [png-message](https://github.com/hedonhermdev/png-message): A CLI tool that can be used to encode/decode secret messages in PNG files.
+- [tgit](https://github.com/hedonhermdev/tgit): A barebones implementation of git in Rust. 
