@@ -23,3 +23,4 @@ I am Tirth Jain, a Computer Science undergrad studying in BITS Pilani, India. I 
 **💻 If you're interested in my efforts towards learning Rust**:
 - [png-message](https://github.com/hedonhermdev/png-message): A CLI tool that can be used to encode/decode secret messages in PNG files.
 - [tgit](https://github.com/hedonhermdev/tgit): A barebones implementation of git in Rust. 
+- [ping-rs](https://github.com/hedonhermdev/ping-rs): An implementation of ping using the ICMP protocol. 
