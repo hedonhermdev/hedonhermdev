@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Tirth Jain, a Computer Science undergrad studying in BITS Pilani, India. I primarily write software that runs on servers. When I'm not doing something productive, I like to make tools that make my life easier. 
+I am Tirth Jain, a Computer Science undergrad studying in BITS Pilani, India. I primarily write software that runs on servers. When I'm not doing something productive, I like to make tools that make my life easier. Check out my personal website/blog at [HedonHermDev](https://hedonhermdev.github.io)
 
 - 🔭 I’m currently working on [Pathways](https://github.com/megabit-labs/pathways)
 - 🌱 I’m currently learning [Rust](https://github.com/hedonhermdev/png-me)
