@@ -8,6 +8,7 @@ I am Tirth Jain, a Computer Science undergrad studying in BITS Pilani, India. I 
 - 😄 Pronouns: He/Him
 
 **💻 If you're here to find something you can use, these might be of interest to you**: 
+- [zettl](https://github.com/hedonhermdev/zettl): A blazing-fast note-taking system. 
 - [downloads-organizer](https://github.com/hedonhermdev/downloads-organizer): A small script that organises your Downloads folder into subfolders based on the type like Images, Video, Audio etc.
 
 - [pi-face-detection-lights](https://github.com/hedonhermdev/pi-face-detection-lights): A setup to switch on lights on your worktable whenever you sit on your chair. 
